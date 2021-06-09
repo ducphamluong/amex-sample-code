@@ -1,5 +1,5 @@
 {
-    "name": "GatewayAmexCode",
+    "name": "ducphamluong/amex-sample-code",
     "description": "Sample PHP application for transactions on the Gateway",
     "repository": "https://github.com/simplifycom/gateway-php-sample-code.git",
     "website": "https://github.com/simplifycom/gateway-php-sample-code.git",
